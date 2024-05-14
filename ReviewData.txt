@@ -1,0 +1,11 @@
+1,1 stars,too spicy,Nasi Lemak
+2,4 stars,penang laksa is better,Laksa
+3,1 stars,Harrr?,Har Mee
+4,3 stars,good,Coconut Shake
+5,3 stars,not bad,Milk
+6,1 stars,asdasd,Har Mee
+7,4 stars,sajdlsdkj,Penang Laksa
+8,1 stars,good,Nasi Lemak
+9,3 stars,asdasd,Nasi Lemak
+10,1 stars,good,Nasi Lemak
+11,5 stars,good nasi lemak,Nasi Lemak

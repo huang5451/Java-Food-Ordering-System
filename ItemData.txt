@@ -1,0 +1,5 @@
+M1,Nasi Lemak,nasi lemak with egg,2.50,AP Controller
+I2,Roti Canai,indian food,1.50,AP Controller
+C3,Penang Laksa,Better than singapore laksa,6.00,AP Controller
+C4,Har Mee,Has prawn and soup is a bit spicy,6.00,AP Controller
+M5,Coconut Shake,Famous things in Melaka,3.50,AP Controller
